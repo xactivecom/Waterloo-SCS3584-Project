@@ -1,0 +1,47 @@
+year,party_code,party_full,prime_minister,minority_government,conservative_seats,liberal_seats,ndp_seats,other_seats,total_seats,notes
+1980,L,Liberal,Pierre Trudeau,0,103,147,32,0,282,Majority government after Feb 1980 election
+1981,L,Liberal,Pierre Trudeau,0,103,147,32,0,282,
+1982,L,Liberal,Pierre Trudeau,0,103,147,32,0,282,
+1983,L,Liberal,Pierre Trudeau,0,103,147,32,0,282,
+1984,L,Liberal,Trudeau / Brian Mulroney,0,211,40,30,1,282,Trudeau resigned June 1984; Turner briefly PM; Mulroney won Sept 1984 election. Liberal assigned as dominant party for majority of year.
+1985,C,Conservative,Brian Mulroney,0,211,40,30,1,282,PC majority government
+1986,C,Conservative,Brian Mulroney,0,211,40,30,1,282,
+1987,C,Conservative,Brian Mulroney,0,211,40,30,1,282,
+1988,C,Conservative,Brian Mulroney,0,169,83,43,0,295,PC re-elected Nov 1988 with majority
+1989,C,Conservative,Brian Mulroney,0,169,83,43,0,295,
+1990,C,Conservative,Brian Mulroney,0,169,83,43,0,295,
+1991,C,Conservative,Brian Mulroney,0,169,83,43,0,295,
+1992,C,Conservative,Brian Mulroney,0,169,83,43,0,295,
+1993,C,Conservative,Mulroney / Campbell / Chretien,0,2,177,9,107,295,Mulroney resigned Feb 1993; Campbell PM to Oct 1993; Chretien won Oct 1993 election. Conservative assigned as dominant for majority of year.
+1994,L,Liberal,Jean Chretien,0,2,177,9,107,295,Liberal majority government
+1995,L,Liberal,Jean Chretien,0,2,177,9,107,295,
+1996,L,Liberal,Jean Chretien,0,2,177,9,107,295,
+1997,L,Liberal,Jean Chretien,0,20,155,21,105,301,Re-elected June 1997 with majority
+1998,L,Liberal,Jean Chretien,0,20,155,21,105,301,
+1999,L,Liberal,Jean Chretien,0,20,155,21,105,301,
+2000,L,Liberal,Jean Chretien,0,12,172,13,104,301,Re-elected Nov 2000 with majority
+2001,L,Liberal,Jean Chretien,0,12,172,13,104,301,
+2002,L,Liberal,Jean Chretien,0,12,172,13,104,301,
+2003,L,Liberal,Chretien / Paul Martin,0,12,172,13,104,301,Chretien resigned Dec 2003; Martin succeeded him
+2004,L,Liberal,Paul Martin,1,99,135,19,55,308,Liberal minority after June 2004 election
+2005,L,Liberal,Paul Martin,1,99,135,19,55,308,
+2006,C,Conservative,Martin / Stephen Harper,1,124,103,29,52,308,Martin lost confidence vote Jan 2006; Harper won Feb 2006 election with minority. Conservative assigned as dominant party.
+2007,C,Conservative,Stephen Harper,1,124,103,29,52,308,Conservative minority
+2008,C,Conservative,Stephen Harper,1,143,77,37,51,308,Conservative re-elected Oct 2008 with minority
+2009,C,Conservative,Stephen Harper,1,143,77,37,51,308,
+2010,C,Conservative,Stephen Harper,1,143,77,37,51,308,
+2011,C,Conservative,Stephen Harper,0,166,34,103,5,308,Conservative majority after May 2011 election
+2012,C,Conservative,Stephen Harper,0,166,34,103,5,308,
+2013,C,Conservative,Stephen Harper,0,166,34,103,5,308,
+2014,C,Conservative,Stephen Harper,0,166,34,103,5,308,
+2015,C,Conservative,Harper / Justin Trudeau,0,99,184,44,11,338,Harper lost Oct 2015 election; J. Trudeau won majority. Conservative assigned as dominant for majority of year.
+2016,L,Liberal,Justin Trudeau,0,99,184,44,11,338,Liberal majority government
+2017,L,Liberal,Justin Trudeau,0,99,184,44,11,338,
+2018,L,Liberal,Justin Trudeau,0,99,184,44,11,338,
+2019,L,Liberal,Justin Trudeau,1,121,157,24,36,338,Liberal minority after Oct 2019 election
+2020,L,Liberal,Justin Trudeau,1,121,157,24,36,338,COVID-19 pandemic year
+2021,L,Liberal,Justin Trudeau,1,119,160,25,34,338,Liberal re-elected with minority Sept 2021
+2022,L,Liberal,Justin Trudeau,1,119,160,25,34,338,
+2023,L,Liberal,Justin Trudeau,1,119,160,25,34,338,
+2024,L,Liberal,Justin Trudeau,1,119,160,25,34,338,
+2025,L,Liberal,Mark Carney,1,141,169,7,26,343,Liberal re-elected with minority Sept 2025
