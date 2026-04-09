@@ -1,0 +1,12 @@
+name: DataScience
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - statsmodels
+  - ipykernel
